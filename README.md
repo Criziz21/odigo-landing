@@ -1,1 +1,1 @@
-![IMG](https://raw.githubusercontent.com/Criziz21/restaurant-project-vue/master/res-img.jpeg)
+![IMG](https://raw.githubusercontent.com/Criziz21/odigo-landing/master/odigo-img.jpeg)
